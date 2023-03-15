@@ -1,0 +1,10 @@
+{"_id":{"$oid":"64084e8d5090c8c32cd3f850"},"name":"Adam Nowak","age":22,"gender":"Male","degree":"Bachelor's","major":"Computer Science"}
+{"_id":{"$oid":"64084e8d5090c8c32cd3f851"},"name":"Anna Kowalska","age":22,"gender":"Female","degree":"Bachelor's","major":"Computer Science"}
+{"_id":{"$oid":"64084e8d5090c8c32cd3f852"},"name":"Kamil Betkowski","age":35,"gender":"Male","degree":"Master's","major":"Computer Science"}
+{"_id":{"$oid":"64084e8d5090c8c32cd3f853"},"name":"Andzej Gołota","age":21,"gender":"Male","degree":"Bachelor's","major":"Computer Science"}
+{"_id":{"$oid":"64084e8d5090c8c32cd3f854"},"name":"Adam Małysz","age":19,"gender":"Male","degree":"Master's","major":"Mathematics"}
+{"_id":{"$oid":"64084e8d5090c8c32cd3f855"},"name":"Piotr Krawczyk","age":22,"gender":"Male","degree":"Bachelor's","major":"Computer Science"}
+{"_id":{"$oid":"64084e8d5090c8c32cd3f856"},"name":"Dominik Lewajski","age":23,"gender":"Male","degree":"Master's","major":"Computer Science"}
+{"_id":{"$oid":"64084e8d5090c8c32cd3f857"},"name":"Gabriela Kasparov","age":28,"gender":"Female","degree":"Bachelor's","major":"Computer Science"}
+{"_id":{"$oid":"64084e8d5090c8c32cd3f858"},"name":"Oskar Laid","age":22,"gender":"Male","degree":"Master's","major":"Mathematics"}
+{"_id":{"$oid":"64084e8d5090c8c32cd3f859"},"name":"Maria Nowak","age":45,"gender":"Female","position":"Professor","department":"Mathematics"}
