@@ -1,0 +1,2 @@
+{"_id":{"$oid":"64171584be388fd8c0549155"},"name":"A1","capacity":30,"location":{"building":"Main","floor":1},"features":["projector","whiteboard"]}
+{"_id":{"$oid":"64171589be388fd8c0549157"},"name":"B2","capacity":20,"location":{"building":"Main","floor":2},"features":["computer","whiteboard"]}

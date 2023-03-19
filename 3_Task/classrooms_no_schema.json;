@@ -1,0 +1,4 @@
+{"_id":"001","name":"A1","capacity":30,"location":{"building":"Main","floor":1},"equipment":["projector","whiteboard"]}
+{"_id":"002","name":"B2","class":"Computer Science","teacher":"John Smith","size":"Small"}
+{"_id":"003","name":"C3","capacity":40,"location":{"building":"Annex","floor":1},"equipment":["projector","whiteboard","sound system"],"amenities":["coffee machine","water cooler"]}
+{"_id":"004","name":"D4","class":"Mathematics","teacher":"Jane Doe","size":"Medium","location":{"building":"Annex","floor":2}}
