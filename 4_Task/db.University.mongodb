@@ -1,0 +1,43 @@
+use ('University');
+
+db.createCollection("people_schema", {
+    validator: {
+        $jsonSchema: {
+            bsonType: "object",
+            required: [ "id", "name", "age", "gender", "degree", "major" ],
+            properties: {
+                id: {
+                    bsonType: "string",
+                    description: "ID jest wymagane"
+                },
+                name: {
+                    bsonType: "string",
+                    description: "Imię i nazwisko są wymagane i muszą być ciągiem znaków"
+                },
+                age: {
+                    bsonType: "int",
+                    minimum: 1,
+                    maximum: 100,
+                    description: "Wiek jest wymagany"
+                },
+                gender: {
+                    bsonType: "string",
+                    enum: [ "female", "male" ],
+                    description: "Płeć jest wymagana i musi być jednym z dwóch: 'female' lub 'male'"
+                },
+                degree: {
+                    bsonType: "string",
+                    description: "Stopień studiów jest wymagany"
+                },
+                major: {
+                    bsonType: "string",
+                    description: "Kierunek studiów jest wymagany"
+                }
+            },
+            additionalProperties: false
+        }
+    }
+})
+
+db.people_schema.createIndex({ "id": 1 }, { unique: true })
+

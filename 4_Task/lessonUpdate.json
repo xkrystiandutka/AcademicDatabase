@@ -1,0 +1,9 @@
+{"_id":{"$oid":"64084d355090c8c32cd3f846"},"name":"Programowanie w C#","professor":"dr inż. Jan Kowalski","schedule":{"day":"Poniedziałek","time":"10:15-12:00"}}
+{"_id":{"$oid":"64084d355090c8c32cd3f847"},"name":"Analiza matematyczna","professor":"prof. dr hab. Maria Nowak","schedule":{"day":"Środa","time":"13:15-15:00"}}
+{"_id":{"$oid":"64084d355090c8c32cd3f848"},"name":"WF","professor":"inz. Arurt Kasparov","schedule":{"day":"Sroda","time":"10:15-12:00"}}
+{"_id":{"$oid":"64084d355090c8c32cd3f849"},"name":"Fizyka zawansowana","professor":"dr hab. Janusz Szymański","students":["Adam Nowak","Kamil Wójcik"],"schedule":{"day":"Czwartek","time":"11:15-13:00"},"classroom":"Sala 307","year":1}
+{"_id":{"$oid":"64084d355090c8c32cd3f84a"},"name":"Wieloplatformowe aplikacje mobilne","professor":"dr inż. Jan Kowalski","schedule":{"day":"Sroda","time":"10:15-12:00"}}
+{"_id":{"$oid":"64084d355090c8c32cd3f84b"},"name":"Big Data","professor":"inż. Krystian Dutka","schedule":{"day":"Piatek","time":"10:15-12:00"}}
+{"_id":{"$oid":"64084d355090c8c32cd3f84c"},"name":"Programowanie obiektowe","professor":"dr inż. Andzej Nowak","schedule":{"day":"Sroda","time":"10:15-12:00"}}
+{"_id":{"$oid":"64084d355090c8c32cd3f84d"},"name":"Uczenie maszynowe","professor":"inż. Krystian Dutka","schedule":{"day":"Wtorek","time":"18:15-20:00"}}
+{"_id":{"$oid":"64084d355090c8c32cd3f84e"},"name":"Sieci komputerowe II","professor":"inż. Artur Kasparov","schedule":{"day":"Sroda","time":"14:15-16:00"}}
