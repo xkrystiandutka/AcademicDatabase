@@ -1,0 +1,4 @@
+{"_id":"002","name":"B2","class":"Computer Science","teacher":"John Smith","size":"Large"}
+{"_id":"004","name":"D4","class":"Mathematics","teacher":"Jane Doe","size":"Medium","location":{"building":"Annex","floor":2}}
+{"_id":"003","name":"C3","capacity":40,"location":{"building":"Annex","floor":2},"equipment":["test machine","projector","laptop","projector","laptop","whiteboard","projector","markers"],"amenities":["coffee machine"]}
+{"_id":"001","name":"A1","capacity":25,"location":{"building":"Main","floor":1},"equipment":["whiteboard","laptop","microphone","laptop","microphone","chair"]}
